@@ -3,7 +3,7 @@ menu:
   Home: /
   Archives: /archives
   # change github and email values to your own addresses
-  Github: https://github.com/<Hresistance>
+  Github: https://github.com/Hresistance
   Email: mailto:<862140968@qq.com>
 rss: /atom.xml
 
