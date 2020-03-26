@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>柠檬精的日常</title>
+  
+  
+  <link href="/Hresistance.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://hresistance.github.io/Hresistance.github.io/"/>
+  <updated>2020-03-26T00:26:21.405Z</updated>
+  <id>https://hresistance.github.io/Hresistance.github.io/</id>
+  
+  <author>
+    <name>SHB</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git遇到的问题</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2020/03/26/git%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2020/03/26/git%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</id>
+    <published>2020-03-26T07:41:18.000Z</published>
+    <updated>2020-03-26T00:26:21.405Z</updated>
+    
+    <content type="html"><![CDATA[<p>#git push出现需要拉取再push的问题<br>而先拉取并没有用<br>试过n种方法<br>尚未解决<br>猜测本地库与GitHub文件冲突差距过大</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#git push出现需要拉取再push的问题&lt;br&gt;而先拉取并没有用&lt;br&gt;试过n种方法&lt;br&gt;尚未解决&lt;br&gt;猜测本地库与GitHub文件冲突差距过大&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2020/03/25/hello-world/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2020/03/25/hello-world/</id>
+    <published>2020-03-25T22:55:52.125Z</published>
+    <updated>2020-03-25T22:55:52.125Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>电脑用无线键盘连接手机</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2019/09/22/%E7%94%B5%E8%84%91%E7%94%A8%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98%E8%BF%9E%E6%8E%A5%E6%89%8B%E6%9C%BA/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2019/09/22/%E7%94%B5%E8%84%91%E7%94%A8%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98%E8%BF%9E%E6%8E%A5%E6%89%8B%E6%9C%BA/</id>
+    <published>2019-09-22T10:45:09.000Z</published>
+    <updated>2020-03-25T22:55:52.135Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="无意间发现电脑的键盘可以通过转换口连接手机"><a href="#无意间发现电脑的键盘可以通过转换口连接手机" class="headerlink" title="无意间发现电脑的键盘可以通过转换口连接手机"></a>无意间发现电脑的键盘可以通过转换口连接手机</h1><p><strong>一直想买个手机用的蓝牙键盘。</strong><br><strong>然后今天突然发现电脑的无线键盘通过转换头插上无线键盘的接收器后再打开OTG可以直接用。</strong><br><strong>于是就有了这篇博客。</strong><br>嘻嘻，我真是个小天才。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;无意间发现电脑的键盘可以通过转换口连接手机&quot;&gt;&lt;a href=&quot;#无意间发现电脑的键盘可以通过转换口连接手机&quot; class=&quot;headerlink&quot; title=&quot;无意间发现电脑的键盘可以通过转换口连接手机&quot;&gt;&lt;/a&gt;无意间发现电脑的键盘可以通过转换口连接手机&lt;/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="发现" scheme="https://Hresistance.github.io/Hresistance.github.io/tags/%E5%8F%91%E7%8E%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建博客遇到的坑</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2019/09/21/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2019/09/21/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E9%81%87%E5%88%B0%E7%9A%84%E5%9D%91/</id>
+    <published>2019-09-21T11:31:45.000Z</published>
+    <updated>2020-03-25T22:55:52.135Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="ssh公钥"><a href="#ssh公钥" class="headerlink" title="ssh公钥"></a>ssh公钥</h1><p><strong>ssh公钥一定要放在github个人仓库的ssh中</strong><br><strong>在放入coding个人账户中，似乎只有个人版coding可以成功验证。企业版多次尝试，均失败</strong>  </p><h1 id="尝试国内外用户访问分流失败"><a href="#尝试国内外用户访问分流失败" class="headerlink" title="尝试国内外用户访问分流失败"></a>尝试国内外用户访问分流失败</h1><p><strong>根据网上教程用hexo同步部署在github与coding上。但需绑定自己所有的域名并进行域名解析。</strong><br>贫穷使我望而却步。<br><strong>最终我将自己博客的github域名绑定了coding的博客不知道是否存在加速效果</strong></p><h1 id="仍存在的问题"><a href="#仍存在的问题" class="headerlink" title="仍存在的问题"></a>仍存在的问题</h1><p><strong>coding网址若不绑定github博客域名，则css页面样式相关文件无法加载</strong>  </p><h2 id="可能原因"><a href="#可能原因" class="headerlink" title="可能原因"></a>可能原因</h2><p><strong>可能是因为 config 站点配置文件中将URL设置成github。用hexo生成的静态页面时无法访问该URL</strong>  </p><h2 id="绑定自己博客的github域名是否加速"><a href="#绑定自己博客的github域名是否加速" class="headerlink" title="绑定自己博客的github域名是否加速"></a>绑定自己博客的github域名是否加速</h2><p><strong>个人认为因为直接转到github并无加速</strong><br><strong>用ping两个网址coding的快好多，可能是因为只是该网址的响应，并不是完全转到github后的响应</strong><br>个人理解，对于ping的原理并不了解，仅限于猜想。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;ssh公钥&quot;&gt;&lt;a href=&quot;#ssh公钥&quot; class=&quot;headerlink&quot; title=&quot;ssh公钥&quot;&gt;&lt;/a&gt;ssh公钥&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;ssh公钥一定要放在github个人仓库的ssh中&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;在放入c
+      
+    
+    </summary>
+    
+    
+    
+      <category term="坑" scheme="https://Hresistance.github.io/Hresistance.github.io/tags/%E5%9D%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test2</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2019/09/20/test2/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2019/09/20/test2/</id>
+    <published>2019-09-20T07:14:11.000Z</published>
+    <updated>2020-03-25T22:55:52.135Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="没错这又是一个测试"><a href="#没错这又是一个测试" class="headerlink" title="没错这又是一个测试"></a>没错这又是一个测试</h1><h2 id="因为之前上传源文件出了点问题"><a href="#因为之前上传源文件出了点问题" class="headerlink" title="因为之前上传源文件出了点问题"></a>因为之前上传源文件出了点问题</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;没错这又是一个测试&quot;&gt;&lt;a href=&quot;#没错这又是一个测试&quot; class=&quot;headerlink&quot; title=&quot;没错这又是一个测试&quot;&gt;&lt;/a&gt;没错这又是一个测试&lt;/h1&gt;&lt;h2 id=&quot;因为之前上传源文件出了点问题&quot;&gt;&lt;a href=&quot;#因为之前上传源文件出了
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="https://Hresistance.github.io/Hresistance.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>穷醒</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2019/09/20/%E7%A9%B7%E9%86%92/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2019/09/20/%E7%A9%B7%E9%86%92/</id>
+    <published>2019-09-20T05:16:27.000Z</published>
+    <updated>2020-03-25T22:55:52.135Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="凌晨5点"><a href="#凌晨5点" class="headerlink" title="凌晨5点"></a>凌晨5点</h1><p><strong>被寝室的灯吵醒??</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;凌晨5点&quot;&gt;&lt;a href=&quot;#凌晨5点&quot; class=&quot;headerlink&quot; title=&quot;凌晨5点&quot;&gt;&lt;/a&gt;凌晨5点&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;被寝室的灯吵醒??&lt;/strong&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="life" scheme="https://Hresistance.github.io/Hresistance.github.io/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2019/09/19/test/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2019/09/19/test/</id>
+    <published>2019-09-19T23:26:55.000Z</published>
+    <updated>2020-03-25T22:55:52.135Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="手机测试"><a href="#手机测试" class="headerlink" title="手机测试"></a>手机测试</h1><h2 id="第三次"><a href="#第三次" class="headerlink" title="第三次"></a>第三次</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;手机测试&quot;&gt;&lt;a href=&quot;#手机测试&quot; class=&quot;headerlink&quot; title=&quot;手机测试&quot;&gt;&lt;/a&gt;手机测试&lt;/h1&gt;&lt;h2 id=&quot;第三次&quot;&gt;&lt;a href=&quot;#第三次&quot; class=&quot;headerlink&quot; title=&quot;第三次&quot;&gt;&lt;/a&gt;第三
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="https://Hresistance.github.io/Hresistance.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电脑端测试</title>
+    <link href="https://hresistance.github.io/Hresistance.github.io/2019/09/19/post/"/>
+    <id>https://hresistance.github.io/Hresistance.github.io/2019/09/19/post/</id>
+    <published>2019-09-19T22:18:34.000Z</published>
+    <updated>2020-03-25T22:55:52.135Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="电脑端测试"><a href="#电脑端测试" class="headerlink" title="电脑端测试"></a>电脑端测试</h1><h2 id="第一次"><a href="#第一次" class="headerlink" title="第一次"></a>第一次</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;电脑端测试&quot;&gt;&lt;a href=&quot;#电脑端测试&quot; class=&quot;headerlink&quot; title=&quot;电脑端测试&quot;&gt;&lt;/a&gt;电脑端测试&lt;/h1&gt;&lt;h2 id=&quot;第一次&quot;&gt;&lt;a href=&quot;#第一次&quot; class=&quot;headerlink&quot; title=&quot;第一次&quot;&gt;&lt;/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="https://Hresistance.github.io/Hresistance.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <!-- Html Head Tag-->
+  <head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content>
+  <meta name="author" content="SHB">
+  <!-- Open Graph Data -->
+  <meta property="og:title" content="搭建博客遇到的坑">
+  <meta property="og:description" content="主要讲述SHB的心路历程">
+  <meta property="og:site_name" content="柠檬精的日常">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="https://Hresistance.github.io/Hresistance.github.io">
+  
+    <link rel="alternate" href="/atom.xml" title="柠檬精的日常" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+
+  <!-- Site Title -->
+  <title>柠檬精的日常</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="/Hresistance.github.io/css/bootstrap.min.css">
+  <!-- Custom CSS -->
+  
+  <link rel="stylesheet" href="/Hresistance.github.io/css/style.light.css">
+
+  <!-- Google Analytics -->
+  
+
+</head>
+
+  <body>
+    <!-- Page Header -->
+
+
+<header class="site-header header-background" style="background-image: url(/Hresistance.github.io//img/default-banner-dark.jpg)">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-title with-background-image">
+          <p class="title">搭建博客遇到的坑</p>
+          <p class="subtitle"></p>
+        </div>
+        <div class="site-menu with-background-image">
+          <ul>
+            
+              <li>
+                <a href="/Hresistance.github.io/">
+                  
+                  Home
+                  
+                </a>
+              </li>
+            
+              <li>
+                <a href="/Hresistance.github.io/archives">
+                  
+                  Archives
+                  
+                </a>
+              </li>
+            
+              <li>
+                <a href="https://github.com/Hresistance">
+                  
+                  Github
+                  
+                </a>
+              </li>
+            
+              <li>
+                <a href="mailto:<862140968@qq.com>">
+                  
+                  Email
+                  
+                </a>
+              </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<article>
+  <div class="container typo">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-info text-muted">
+          
+            <!-- Author -->
+            <span class="author info">By SHB</span>
+          
+          <!-- Date -->
+          <span class="date-time info">On
+            <span class="date">2019-09-21</span>
+            <span class="time">00:29:53</span>
+          </span>
+          
+        </div>
+        <!-- Tags -->
+        
+          <div class="post-tags text-muted">
+            Tags: 
+
+<a class="tag" href="/Hresistance.github.io/tags/坑/">#坑</a>
+
+
+          </div>
+        
+        <!-- Post Main Content -->
+        <div class="post-content">
+          <h1 id="ssh公钥"><a href="#ssh公钥" class="headerlink" title="ssh公钥"></a>ssh公钥</h1><p><strong>ssh公钥一定要放在github个人仓库的ssh中</strong><br><strong>在放入coding个人账户中，似乎只有个人版coding可以成功验证。企业版多次尝试，均失败</strong>  </p>
+<h1 id="尝试国内外用户访问分流失败"><a href="#尝试国内外用户访问分流失败" class="headerlink" title="尝试国内外用户访问分流失败"></a>尝试国内外用户访问分流失败</h1><p><strong>根据网上教程用hexo同步部署在github与coding上。但需绑定自己所有的域名并进行域名解析。</strong><br>贫穷使我望而却步。<br><strong>最终我将自己博客的github域名绑定了coding的博客不知道是否存在加速效果</strong></p>
+<h1 id="仍存在的问题"><a href="#仍存在的问题" class="headerlink" title="仍存在的问题"></a>仍存在的问题</h1><p><strong>coding网址若不绑定github博客域名，则css页面样式相关文件无法加载</strong>  </p>
+<h2 id="可能原因"><a href="#可能原因" class="headerlink" title="可能原因"></a>可能原因</h2><p><strong>可能是因为 config 站点配置文件中将URL设置成github。用hexo生成的静态页面时无法访问该URL</strong>  </p>
+<h2 id="绑定自己博客的github域名是否加速"><a href="#绑定自己博客的github域名是否加速" class="headerlink" title="绑定自己博客的github域名是否加速"></a>绑定自己博客的github域名是否加速</h2><p><strong>个人认为因为直接转到github并无加速</strong><br><strong>用ping两个网址coding的快好多，可能是因为只是该网址的响应，并不是完全转到github后的响应</strong><br>个人理解，对于ping的原理并不了解，仅限于猜想。</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+
+
+    <!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <p class="copyright text-muted">
+          Theme By <a target="_blank" href="https://github.com/levblanc">Levblanc.</a>
+          Inspired By <a target="_blank" href="https://github.com/klugjo/hexo-theme-clean-blog">Clean Blog.</a>
+        <p class="copyright text-muted">
+          Powered By <a target="_blank" href="https://hexo.io/">Hexo.</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+
+    <!-- After Footer Scripts -->
+<script src="/Hresistance.github.io/js/highlight.pack.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var codeBlocks = Array.prototype.slice.call(document.getElementsByTagName('pre'))
+    codeBlocks.forEach(function(block, index) {
+      hljs.highlightBlock(block);
+    });
+  });
+</script>
+
+  </body>
+</html>
+
